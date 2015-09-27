@@ -1,5 +1,5 @@
 
-# Setup
+# Setup/Instructions
 
 * Clone/dowload this repository
 * Set working directory to the project folder
